@@ -1,7 +1,7 @@
 # noise_generator
 A C++ based 1/f noise generator from Corsini and Saletti. 
 
-Compile the .cpp file and use the provided test.py file to try out the simulator. 
+Compile the .cpp file (e.g., run >> setup.py build) and use the provided test.py file to try out the simulator. 
 
 Methods taken from: https://ieeexplore.ieee.org/document/9825
 
